@@ -5,4 +5,4 @@
 
 Wow, I wrote hello world in markdown, add that to the list 😁.
 
-![Img]() 
+![Img]("_posts\\amazing.jpg") 
